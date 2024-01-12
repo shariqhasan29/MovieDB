@@ -7,13 +7,15 @@ body{
   text-decoration: none;
   list-style-type: none;
   outline: none;
-  background-color: black;
+  background-image: url('https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container{
   width: 100%;
   margin: 1em auto;
-  background-color: darkslategray;
+  background-color: transparent;
 }
 
 .grid{
